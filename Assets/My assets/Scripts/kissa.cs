@@ -42,4 +42,14 @@ public class kissa : MonoBehaviour
 			animator.SetBool("Walk", false);
 		}
     }
+
+    //Kissan törmäys tyhjään maaliin
+	void OnTriggerEnter(Collider other)
+    {
+
+        if (other.gameObject.name == "Maali")
+        {
+            Debug.Log("Kissa maalissa");
+		}
+	}
 }

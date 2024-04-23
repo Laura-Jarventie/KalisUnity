@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638487845809682721
-    m_Hash: 979825810
+      ticks: 638489696935309747
+    m_Hash: 878243653
   m_LockFileStatus:
     m_FilePath: "C:/Users/T460s/Documents/Uusi kansio/kissa kev\xE4t 2024/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638487846714575613
-    m_Hash: 831299022
+      ticks: 638489696935316933
+    m_Hash: 2893939304
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -1092,9 +1092,11 @@ m_ResolvedPackages:
     - 1.9.0
     - 1.9.1
     - 1.9.2
+    - 1.9.4
     compatible:
     - 1.9.2
-    verified: 1.9.2
+    - 1.9.4
+    verified: 1.9.4
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
