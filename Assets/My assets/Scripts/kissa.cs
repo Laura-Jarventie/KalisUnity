@@ -51,5 +51,8 @@ public class kissa : MonoBehaviour
         {
             Debug.Log("Kissa maalissa");
 		}
+        
 	}
+
+    
 }

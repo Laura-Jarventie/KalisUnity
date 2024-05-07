@@ -345,6 +345,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/My assets/Scripts/BasicRigidBodyPush.cs"
 "Assets/My assets/Scripts/kissa.cs"
+"Assets/My assets/Scripts/pallo.cs"
+"Assets/My assets/Scripts/vihollinen.cs"
 "Assets/Waldemarst/Broccoli/Controller/BroccoTreeController_1_2_5.cs"
 -langversion:9.0
 
